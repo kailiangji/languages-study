@@ -12,3 +12,6 @@ Generally, every program I write, regardless of what useful thing it actually do
 * Building a package whether that’s a self-contained binary, an RPM, an OCI container, whatever is native to that language and the platform
 
 It’s easy to find examples of most of these things using resources such as Rosetta Code and my first real program will be a horrific cut and paste mess – but it will get me started and I’ll soon refine it and absorb the idiomatic patterns of the language and soon be writing fluently in it, and knowing my way around the ecosystem, what libraries are available, which are the strengths and weaknesses of the language, the libraries, the community and so on. Once you have done this a few times it becomes easy and you can stop worrying so much about being a “language X programmer” and concentrate on the important stuff, which is the problem domain you are working in. 
+
+## A website to solve a problem with different kinds of languages
+http://rosettacode.org/wiki/Rosetta_Code
